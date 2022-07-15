@@ -1,0 +1,20 @@
+{
+    "token": "the bot token. Of course, don't share it !!", 
+    
+    "supportGuild": {
+        "logsChannel": 123456789101112130, 
+        "guildID": 123456789101112130,
+        "staffRoleID": 123456789101112130,
+        "adminRoleID": 123456789101112130
+    },
+
+    "links": { 
+        "qrcode": "qr code to your site or to invite the bot", 
+        "botInvite": "link to invite the bot", 
+        "support": "support guild invite"
+    },
+    
+    "emojis": {
+        "banhammer": 123456789101112130
+    }
+}

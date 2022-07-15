@@ -1,8 +1,5 @@
-# guildedit
-L'ancien bot guildedit, dévoilé au grand jour !
+A bot with basic commands made in rewrite discord.py.
+Inspired of one of my projects, GuildEdit.
 
-Certaines commandes semblent ne plus fonctionner ou fonctionner mal, cela est très sûrement dû à des mises à jour de la librairie utilisée.
-
-Icône du bot (libre d'utilisation, tout le crédit revient à son auteur) : https://www.iconfinder.com/icons/1287513/database_hosting_internet_rack_server_storage_icon
-
-Pour tout problème ou pour toute question/suggestion, me contacter par email à lcram33@pm.me.
+Use : copy the config.example.json to config.json and complete the file, then run :)
+Then : write your own stuff ^_^
